@@ -1,2 +1,2 @@
-node_modules/*
-bower_components/*
+app_code/node_modules/*
+app_code/bower_components/*
