@@ -1,0 +1,30 @@
+{
+  "name": "smart-closet",
+  "description": "Tag your clothes, classify your closet, get outfit recomendations.",
+  "main": "index.js",
+  "authors": [
+    "Fer Uría"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "wearables",
+    "rfid",
+    "fashion"
+  ],
+  "moduleType": [],
+  "homepage": "https://github.com/fauria/smart-closet",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io": "~1.4.5",
+    "jquery": "~2.2.3",
+    "handlebars": "~4.0.5",
+    "pure": "~0.6.0"
+  }
+}

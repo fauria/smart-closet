@@ -1,0 +1,7 @@
+img.present {
+	opacity: 1;
+}
+
+img.missing {
+	opacity: 0.3;
+}
