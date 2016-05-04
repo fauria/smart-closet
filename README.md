@@ -48,8 +48,6 @@ We all knew before the hackathon. Some of us worked together on [previous](https
 
 # Tools
 
-![Mockup flow](https://raw.githubusercontent.com/fauria/smart-closet/master/assets/mockup.gif)
-
 For this project, we relied on the following tools:
 
 - [Raspberry Pi](https://www.raspberrypi.org/) model B, interfacing with a laptop via ethernet.
@@ -58,6 +56,8 @@ For this project, we relied on the following tools:
 - [Canva](https://www.canva.com) mockup design tool.
 - [POP](https://popapp.in) prototyping tool.
 - [Apple Keynote](http://www.apple.com/mac/keynote/) presentation.
+
+![Mockup flow](https://raw.githubusercontent.com/fauria/smart-closet/master/assets/mockup.gif)
 
 **[Try the Smart Closet App Mockup](https://popapp.in/w/projects/572486fbbb163c267576b35b/preview)**
 
