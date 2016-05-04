@@ -40,9 +40,9 @@ The name of the project, "Smart Closet" reflects the fact that the closet become
 
 Meet the team:
 
-- Fernando Álvarez-Uría, Software Engineer. <fauria@gmail.com>. [View LinkedIn profile](https://www.linkedin.com/in/fauria)
-- Javier Yuste - International Management. <javier.yuste@alumni.ie.edu>. [View LinkedIn profile](https://www.linkedin.com/in/javieryustegarcia)
-- Jesús San Román García, International Management. <jesussanromangarcia@student.ie.edu>. [View LinkedIn profile](https://www.linkedin.com/in/jesussanromangarcia)
+- Fernando Álvarez-Uría, Software Engineer (right). <fauria@gmail.com>. [View LinkedIn profile](https://www.linkedin.com/in/fauria)
+- Javier Yuste - International Management (left). <javier.yuste@alumni.ie.edu>. [View LinkedIn profile](https://www.linkedin.com/in/javieryustegarcia)
+- Jesús San Román García, International Management (middle). <jesussanromangarcia@student.ie.edu>. [View LinkedIn profile](https://www.linkedin.com/in/jesussanromangarcia)
 
 We all knew before the hackathon. Some of us worked together on [previous](https://github.com/fauria/smart-closet) [hackathons](https://github.com/fauria/white-eyes), and some were fellow students.
 
