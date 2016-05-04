@@ -46,7 +46,9 @@ Meet the team:
 
 We all knew before the hackathon. Some of us worked together on [previous](https://github.com/fauria/smart-closet) [hackathons](https://github.com/fauria/white-eyes), and some were fellow students.
 
-# Tools
+# The tools
+
+![Mockup flow](https://raw.githubusercontent.com/fauria/smart-closet/master/assets/mockup.gif)
 
 For this project, we relied on the following tools:
 
@@ -57,11 +59,11 @@ For this project, we relied on the following tools:
 - [POP](https://popapp.in) prototyping tool.
 - [Apple Keynote](http://www.apple.com/mac/keynote/) presentation.
 
-![Mockup flow](https://raw.githubusercontent.com/fauria/smart-closet/master/assets/mockup.gif)
-
 **[Try the Smart Closet App Mockup](https://popapp.in/w/projects/572486fbbb163c267576b35b/preview)**
 
-# Prototype
+# The prototype
+
+![RFID Connection Diagram](https://raw.githubusercontent.com/fauria/smart-closet/master/assets/Smart_Closet_Setup_bb.jpg)
 
 ![Fully functional prototype](https://github.com/fauria/smart-closet/raw/master/assets/smart-closet_prototype.gif)
 
@@ -76,8 +78,6 @@ The RFID reader was attached to the RaspberryPi throug the GPIO pins.
 A Python script interfacing with the [MFRC522](https://github.com/mxgxw/MFRC522-python) reader via [SPI](https://github.com/lthiery/SPI-Py) performed a GET request to an [Express](http://expressjs.com/) server running on top of Node.js. Thanks to [socket.io](http://socket.io/) library, the user inteface was updated every time a request was made.
 
 ## Future improvements
-
-![RFID Connection Diagram](https://raw.githubusercontent.com/fauria/smart-closet/master/assets/Smart_Closet_Setup_bb.jpg)
 
 Implementing an smart advisor using efficient machine learning classifiers that provide best recommendations is key to success.
 
