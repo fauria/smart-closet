@@ -44,7 +44,7 @@ Meet the team:
 - Javier Yuste - International Management. <javier.yuste@alumni.ie.edu>. [View LinkedIn profile](https://www.linkedin.com/in/javieryustegarcia)
 - Jesús San Román García, International Management. <jesussanromangarcia@student.ie.edu>. [View LinkedIn profile](https://www.linkedin.com/in/jesussanromangarcia)
 
-We al knew before the hackathon. Some of us worked together on [previous](https://github.com/fauria/smart-closet) [hackathons](https://github.com/fauria/white-eyes), and some were fellow students.
+We all knew before the hackathon. Some of us worked together on [previous](https://github.com/fauria/smart-closet) [hackathons](https://github.com/fauria/white-eyes), and some were fellow students.
 
 # Tools
 
@@ -58,6 +58,8 @@ For this project, we relied on the following tools:
 - [Canva](https://www.canva.com) mockup design tool.
 - [POP](https://popapp.in) prototyping tool.
 - [Apple Keynote](http://www.apple.com/mac/keynote/) presentation.
+
+**[Try the Smart Closet App Mockup](https://popapp.in/w/projects/572486fbbb163c267576b35b/preview)**
 
 # Prototype
 
@@ -85,7 +87,7 @@ A big data infrastructure will need to be architectured to both collect and anal
 
 That will provide textile companies with insights on aspects of the clothing lifecycle currently unreachable, such as how many times a piece of clothes is weared, how much does it last, or how often it is combined with other clothing.
 
-Finally, an smart cross selling module could anticipate the customer needs, offering advise on both new purchases and replacement of end of life garments.
+Finally, an smart cross selling module will anticipate the customer needs, offering advise on both new purchases and replacement of end of life garments.
 
 # The presentation
 
@@ -97,18 +99,20 @@ The pitch started with an introduction by Jesús San Román, continued with a te
 
 Once we concluded our pitch, the jury asked some questions related to both economic and technical aspects of the project, and gave recommendations on how to improve the presentation itself as well.
 
+**[Download the presentation](https://raw.githubusercontent.com/fauria/smart-closet/master/Smart-Closet-Presentation.pptx)**
+
 # Awards
 
 Our project was awarded the first prize, along with the following items:
 
 ## IE Powerbank
-![Best integration of Dizmo award](https://raw.githubusercontent.com/fauria/smart-closet/master/pictures/powerbank.jpg)
+![IW Poerbank](https://raw.githubusercontent.com/fauria/smart-closet/master/assets/powerbank.jpg)
 
 ## Coaching Session
-![Best pitch award](https://raw.githubusercontent.com/fauria/smart-closet/master/pictures/coaching_voucher.jpg)
+![Coaching Session Voucher](https://raw.githubusercontent.com/fauria/smart-closet/master/assets/coaching_voucher.jpg)
 
 ## Week session
-![Best pitch award](https://raw.githubusercontent.com/fauria/smart-closet/master/pictures/language_voucher.jpg)
+![Language Week Voucher](https://raw.githubusercontent.com/fauria/smart-closet/master/assets/language_voucher.jpg)
 
 We were really satisfied with our achived performance and the quality of the products delivered, given such a short period of time.
 
